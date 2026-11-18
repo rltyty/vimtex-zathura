@@ -1,5 +1,6 @@
 # vimtex-zathura
-A method to latex edit and preview side by side
+
+A method for editing LaTeX with a side-by-side preview.
 
 ## Purpose
 
